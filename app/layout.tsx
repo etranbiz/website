@@ -12,7 +12,7 @@ import Head from 'next/head'
 
 export const metadata: Metadata = {
   title: 'Etranbiz',
-  description: 'eTranBiz is IT Consulting Organization offering High-End Expertise, Solutions and Services based on Oracle Products and Technologies especially in the areas of Oracle Fusion Middleware, Oracle eBusiness Suite, Oracle Database and Enterprise Systems, Data warehouse and BI and Java/Web/Mobile Solution Development Technologies.',
+  description: 'eTranBiz is a IT Consulting Organization offering High-End Expertise, Solutions and Services based on Oracle Products and Technologies especially in the areas of Oracle Fusion Middleware, Oracle eBusiness Suite, Oracle Database and Enterprise Systems, Data warehouse and BI and Java/Web/Mobile Solution Development Technologies.',
   // icons: [{ rel: 'icon', url: Favicon.src }],
   icons: {
     icon: ['/favicon.ico'],

@@ -19,7 +19,7 @@ const UnderConstruction = () => {
                 <p className='text-[30px] md:text-[40px] font-[400] text-white mb-4'>we will be seeing you in spring!</p>
                 <PrimaryButton title={`Let's talk`} onClick={handleButtonClick} />
             </div>
-            <div className='absolute w-full flex justify-center items-end pb-10 bottom-0 h-[40vh] bg-gradient-to-b from-[#131313] to-[#16796f51] z-0'>
+            <div className='absolute w-full flex justify-center items-end pb-20 md:pb-10 bottom-0 h-[40vh] bg-gradient-to-b from-[#131313] to-[#16796f51] z-0'>
                 <div className='w-fit flex flex-col items-center '>
                     <Image src={settingIcon} className='w-[26px] spin-div' alt='Settings Icon' />
                     <div className='flex gap-1'>
