@@ -37,8 +37,8 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body className={manrope.className}>
-        {/* <PreLoader />
-        <Navbar /> */}
+        {/* <PreLoader /> */}
+        {/* <Navbar /> */}
         {children}
         {/* <Footer /> */}
       </body>
