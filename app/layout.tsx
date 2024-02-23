@@ -11,7 +11,7 @@ import PreLoader from './components/global/PreLoader'
 import Head from 'next/head'
 
 export const metadata: Metadata = {
-  title: 'Etranbiz',
+  title: 'eTranBiz',
   description: 'eTranBiz is a IT Consulting Organization offering High-End Expertise, Solutions and Services based on Oracle Products and Technologies especially in the areas of Oracle Fusion Middleware, Oracle eBusiness Suite, Oracle Database and Enterprise Systems, Data warehouse and BI and Java/Web/Mobile Solution Development Technologies.',
   // icons: [{ rel: 'icon', url: Favicon.src }],
   icons: {
