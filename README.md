@@ -1,4 +1,4 @@
-# Etranbiz
+# eTranBiz
 
 
 Our new website is under construction,
