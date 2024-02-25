@@ -4,6 +4,7 @@ import React from 'react'
 import PrimaryButton from '@/app/components/global/PrimaryButton'
 import settingIcon from '@/app/assets/icons/setting.svg'
 import Image from 'next/image'
+import logo from '@/app/assets/icons/logo-main-white.svg'
 
 const UnderConstruction = () => {
 
@@ -13,6 +14,9 @@ const UnderConstruction = () => {
 
     return (
         <div className='w-full relative h-screen flex flex-col justify-center items-center bg-[#131313] text-center px-6'>
+            <div className='w-full flex justify-center items-center absolute top-12'>
+                <Image src={logo} alt='Logo' className='w-full max-w-[200px]' />
+            </div>
             <div className='w-fit flex flex-col justify-center items-center z-10 leading-none gap-3 -translate-y-14 md:-translate-y-0'>
                 <h1 className='text-[40px] md:text-[50px] font-[400] text-white mb-4'>Hello!</h1>
                 <p className='text-[20px] md:text-[25px] font-[400] text-[color:var(--primary-yellow)]'>Our new website is under construction.</p>
