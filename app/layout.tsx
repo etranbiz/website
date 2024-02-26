@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'eTranBiz is a IT Consulting Organization offering High-End Expertise, Solutions and Services based on Oracle Products and Technologies especially in the areas of Oracle Fusion Middleware, Oracle eBusiness Suite, Oracle Database and Enterprise Systems, Data warehouse and BI and Java/Web/Mobile Solution Development Technologies.',
   // icons: [{ rel: 'icon', url: Favicon.src }],
   icons: {
-    icon: ['/etranbiz-favicon 1.ico'],
+    icon: ['/etranbiz-favicon-1.svg'],
   },
 }
 
@@ -34,7 +34,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       {/* <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/etranbiz-favicon.png" />
       </Head> */}
       <body className={manrope.className}>
         {/* <PreLoader /> */}
