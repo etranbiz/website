@@ -9,7 +9,7 @@ import logo from '@/app/assets/icons/logo-main-white.svg'
 const UnderConstruction = () => {
 
     const handleButtonClick = () => {
-        window.location.href = 'mailto:salse@etranbiz.com';
+        window.location.href = 'mailto:sales@etranbiz.com';
       };
 
     return (
